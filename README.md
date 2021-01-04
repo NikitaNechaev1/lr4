@@ -13,8 +13,8 @@ a. Обучить нейронную на 50к изображениях с ис�
 Training: 67 117 фотографий случайно взятых из соцсетей https://www.kaggle.com/greg115/various-tagged-images<br />
 Validation - 852 фотографий из личного архива <br />
 <br />
-Результат работы:
-![alt text](https://github.com/NikitaNechaev1/lr4/blob/main/lr4-results/lr4_graph.png)
+Результат работы:<br />
+![alt text](https://github.com/NikitaNechaev1/lr4/blob/main/lr4-results/lr4_graph.png)<br />
 ![alt text](https://github.com/NikitaNechaev1/lr4/blob/main/lr4-results/lr4_results.png)<br />
 
 Лог:
