@@ -14,10 +14,10 @@ Training: 67 117 фотографий случайно взятых из соц�
 Validation - 852 фотографий из личного архива <br />
 <br />
 Результат работы:<br />
-![alt text](https://github.com/NikitaNechaev1/lr4/blob/main/lr4-results/lr4_graph.png)<br />
-![alt text](https://github.com/NikitaNechaev1/lr4/blob/main/lr4-results/lr4_results.png)<br />
-
-Лог:
+![alt text](https://raw.githubusercontent.com/NikitaNechaev1/lr4/main/lr4-results/lr4_graph.png) <br />
+![alt text](https://raw.githubusercontent.com/NikitaNechaev1/lr4/main/lr4-results/lr4_results.png) <br />
+<br />
+Лог:<br />
 2021-01-04 12:44:10.965189: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library cudart64_110.dll<br />
 2021-01-04 12:44:12.531661: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the follow<br />
 ing CPU instructions in performance-critical operations:  AVX2<br />
